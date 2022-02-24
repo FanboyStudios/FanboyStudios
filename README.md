@@ -50,5 +50,5 @@ King/Master
 I posted as Nat Friedman (yes, that Nat Friedman - aka the former CEO of GitHub) once, in October of 2020.
 
 What Happened? 
-A group of security researchers took the pleasure to troll the RIAA (after they attempted to DMCA the youtube-dl repo... and failed epicly), while raising awareness of a vulnerability on GitHub by making commits as Nat Friedman. Here's a screenshot of the commit below.
+A group of security researchers took the pleasure to troll the RIAA (after they attempted to DMCA the youtube-dl repo... and failed epicly), while raising awareness of a vulnerability on GitHub by making commits as Nat Friedman. Here's a screenshot of the commit below. https://gist.github.com/e1b54acdc5d2a3f056e995a0322ec9d7
 ![msedge_February24, 2022 - 00 21 58](https://user-images.githubusercontent.com/13723631/155469750-c5ba42a8-c43d-4fb5-81db-ee69be102025.png)
