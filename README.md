@@ -38,7 +38,7 @@ Anything?
 
 - 📫 How to reach me: ...
 My profiles!
-https://randomfandom.cf/RFMG
+https://rfmg.top/RFMG
 
 
 - 😄 Pronouns: ...
