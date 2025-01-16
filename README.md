@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 bADdieblock (repo has been moved to GitLab, link on my website)
-CACA - The Creators Advertisers Consumers Association (Work In Progress, link on my website)
 Some various themes for WonderCMS (https://github.com/robiso/wondercms)
+Steamed Minty Decks (Linux Mint Setup Guide for the Valve Steam Deck)
+...and a lot more that I won't mention or this list will become very long. LOL
 
 - 🌱 I’m currently learning ...
 Anything as I go!
@@ -44,7 +45,7 @@ https://rfmg.top/RFMG
 - 😄 Pronouns: ...
 He/Him
 If you don't like those pronouns... you can refer to me as:
-King/Master
+King/Master 🤣
 
 - ⚡ Fun fact: ...
 I posted as Nat Friedman (yes, that Nat Friedman - aka the former CEO of GitHub) once, in October of 2020.
